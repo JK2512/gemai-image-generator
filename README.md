@@ -28,7 +28,8 @@ GemAI is a full-stack AI-powered image generation web application built using th
 
 ### Home Page
 
-<img width="959" height="434" alt="Screenshot 2026-05-18 162135" src="https://github.com/user-attachments/assets/36ba300e-141b-41be-b0bb-c28043b61f47" />
+<img width="959" height="434" alt="Screenshot 2026-05-18 160251" src="https://github.com/user-attachments/assets/039f436b-cb83-4e6c-916e-8be5a9948d32" />
+
 
 
 ---
@@ -37,7 +38,8 @@ GemAI is a full-stack AI-powered image generation web application built using th
 
 <img width="959" height="434" alt="Screenshot 2026-05-18 163200" src="https://github.com/user-attachments/assets/ab2950a4-9476-44f8-9dfa-7da289c46d7b" />
 
-<img width="959" height="434" alt="Screenshot 2026-05-18 163200" src="https://github.com/user-attachments/assets/e958a47b-b0b5-48e5-b5e9-93db73a438cd" />
+<img width="959" height="435" alt="Screenshot 2026-05-18 163318" src="https://github.com/user-attachments/assets/e88a80a2-ebde-41ec-9808-eee48623c323" />
+
 
 ---
 
