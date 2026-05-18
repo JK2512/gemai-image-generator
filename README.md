@@ -1,6 +1,6 @@
 # GemAI - AI Image Generator
 
-GemAI is a full-stack AI-powered image generation web application built using the MERN stack.
+GemAI is a full-stack AI-powered image generation web application.
 
 ---
 
@@ -16,11 +16,9 @@ GemAI is a full-stack AI-powered image generation web application built using th
 
 ## Tech Stack
 
-- React.js
-- Node.js
-- Express.js
-- Styled Components
-- Pollinations AI API
+- HTML
+- CSS
+- JavaScript
 
 ---
 
